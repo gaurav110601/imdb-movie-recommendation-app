@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/imdb-movie-recommendation-app/static/css/main.e45fb457.css",
+    "main.js": "/imdb-movie-recommendation-app/static/js/main.27b7f2bc.js",
+    "index.html": "/imdb-movie-recommendation-app/index.html",
+    "main.e45fb457.css.map": "/imdb-movie-recommendation-app/static/css/main.e45fb457.css.map",
+    "main.27b7f2bc.js.map": "/imdb-movie-recommendation-app/static/js/main.27b7f2bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e45fb457.css",
+    "static/js/main.27b7f2bc.js"
+  ]
+}
