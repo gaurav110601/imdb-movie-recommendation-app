@@ -1,70 +1,115 @@
-# Getting Started with Create React App
+<p align="center">
+  <img src = "/src/logo.png" width="300">
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+  Movies App
+</h1>
 
-## Available Scripts
+<h3 align="center">
+   IMDB Clone | React App | ReactJs Project
+</h3>
 
-In the project directory, you can run:
 
-### `npm start`
+<br><br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<p align="justify">
+This project is an attempt to create a clone of the popular IMDb (Internet Movie Database) website. It is a platform where users can search and discover movies and TV shows, read reviews and ratings, and more. The app is built using modern web technologies such as HTML, CSS, and JavaScript, ReactJS and makes use of a movie database API to retrieve movie information and display it in an easy-to-use interface.<br>
+This React project will provide us the list of upcoming, popular & top rated movies. On clicking on any movie it will show us the detail page of the movie.<br>
+The main features of the IMDb Clone Movies App include:
+<ul>
+<li align="justify"> <b>Movie search:</b> Users can search for movies and TV shows by title, actor, director, and more. The app provides detailed information about each movie, including its release date, running time, genre, and more.</li>
+<li align="justify"> <b>User reviews:</b> Users can write and read reviews of movies and TV shows, as well as rate them on a scale of 1-10. This allows other users to get a better understanding of what to expect from a movie before watching it.</li>
+<li align="justify"> <b>Recommendations:</b> The app provides personalized movie recommendations based on the user's viewing history and preferences. This helps users discover new movies and TV shows that they might be interested in.</li>
+<li align="justify"> <b>Watchlist:</b> Users can keep track of the movies and TV shows they want to watch in the future by adding them to their watchlist. This makes it easy to find and watch the movies they're interested in later on.</li>
+<li align="justify"> <b>Trending movies:</b> The app displays the most popular movies and TV shows currently trending on IMDb, making it easy for users to stay up-to-date with what's hot.</li>
+</ul>
+</p>
+<p align="justify">
+The IMDb Clone Movies App is an open-source project, and we welcome contributions from the community. If you're interested in helping to improve the app, please take a look at the contribution guidelines in the repository. Thank you for visiting, and we hope you find this app useful!
+</p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+<br><br>
+<!-- ................................................................................................................................. -->
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+### Features
+<br>
+Following are some of the new features and learning encountered while creating this amazing project:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Creating routes using the React-Router-DOM for redirecting the user to particular requested pages
+- Using React-Loading-Skeleton to form the leading structure of the page while the data is being fetched.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<br><br>
+<!-- ................................................................................................................................. -->
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Resources
+<br>
+Follwing resources have been used in maintaining this project:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- [TheMovieDb](https://developers.themoviedb.org/3/getting-started/introduction) is the API that we will be using to fetch the data of the movies.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<br><br>
+<!-- ................................................................................................................................. -->
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Demo
+<p align="justify">
+  The Demo of this working project can be found on <br>
+  <a href="https://gaurav110601.github.io/imdb-movie-recommendation-app/">https://gaurav110601.github.io/imdb-movie-recommendation-app/</a>
+</p>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+<br><br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+<br><br>
+<!-- ................................................................................................................................. -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Graphical User Interface
 
-### Advanced Configuration
+<img src="/src/IMDB Clone.png"/>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+<br><br>
+<!-- ................................................................................................................................. -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Technology Stack
+<br>
+Follwing technologies have been used at the core of this application to make it stand in the market place:
+
+- TheMovieDB API
+- REACT JS
+- HTML
+- CSS
+- React-loading-skeleton
+
+
+<br><br>
+<!-- ................................................................................................................................. -->
+
+
+### Advancement
+
+> App is not responsive to all type of screen. It is only for big screens yet. 
+
+<br><br>
+<!-- ................................................................................................................................. -->
+
+
+### Developer
+
+Gaurav Sharma <br>
+gaurav110601@gmail.com <br>
+> [LinkedIn](https://www.linkedin.com/in/gaurav110601/)<br>
+<br><br>
+<!-- ................................................................................................................................. -->
