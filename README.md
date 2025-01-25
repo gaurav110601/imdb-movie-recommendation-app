@@ -110,6 +110,5 @@ Follwing technologies have been used at the core of this application to make it 
 
 Gaurav Sharma <br>
 gaurav110601@gmail.com <br>
-> [LinkedIn](https://www.linkedin.com/in/gaurav110601/)<br>
-<br><br>
+> [LinkedIn](https://www.linkedin.com/in/gaurav110601/)
 <!-- ................................................................................................................................. -->
