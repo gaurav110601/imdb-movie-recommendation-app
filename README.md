@@ -60,7 +60,7 @@ Follwing resources have been used in maintaining this project:
 ### Demo
 <p align="justify">
   The Demo of this working project can be found on <br>
-  <a href="https://gaurav110601.github.io/imdb-movie-recommendation-app/">https://gaurav110601.github.io/imdb-movie-recommendation-app/</a>
+  <a href="https://gaurav110601.github.io/imdb-movie-recommendation-app/" target="_blank">https://gaurav110601.github.io/imdb-movie-recommendation-app/</a>
 </p>
 
 
